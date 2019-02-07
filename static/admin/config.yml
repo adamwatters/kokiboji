@@ -7,10 +7,10 @@ public_folder: /img
 
 collections:
   - name: product
-  label: Products
-  extension: yml
-  format: yml
-  fields:
+    label: Products
+    extension: yml
+    format: yml
+    fields:
   - name: price
     label: price
     widget: number
