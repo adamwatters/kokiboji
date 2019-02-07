@@ -11,11 +11,11 @@ collections:
   extension: yml
   format: yml
   fields:
-    - name: price
-      label: price
-      widget: number
-      valueType: int
-      default: 0
+  - name: price
+    label: price
+    widget: number
+    valueType: int
+    default: 0
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
