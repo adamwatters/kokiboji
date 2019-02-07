@@ -9,6 +9,7 @@ collections:
   - name: "thing"
     label: "Things"
     folder: "src/pages/things"
+    create: true
     extension: yml
     format: yml
     fields:
