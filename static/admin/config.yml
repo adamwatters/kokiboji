@@ -6,9 +6,9 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "product"
-    label: "Products"
-    folder: "src/pages/products"
+  - name: "thing"
+    label: "Things"
+    folder: "src/pages/things"
     extension: yml
     format: yml
     fields:
